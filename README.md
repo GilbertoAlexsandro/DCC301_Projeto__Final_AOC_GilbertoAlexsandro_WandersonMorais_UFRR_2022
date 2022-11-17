@@ -1,0 +1,2 @@
+# DCC301_Projeto__Final_AOC_GilbertoAlexsandro_WandersonMorais_UFRR_2022
+Processador 8 bits
